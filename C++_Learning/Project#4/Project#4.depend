@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1677762715 source:d:\code\project#4\main.cpp
+	<iostream>
+	"Faculty.h"
+
+1677762131 source:d:\code\project#4\student.cpp
+	"Student.h"
+
+1677762088 d:\code\project#4\student.h
+	<iostream>
+	"Course.h"
+	<vector>
+	<string>
+
+1677763219 source:d:\code\project#4\course.cpp
+	"Course.h"
+
+1677761500 d:\code\project#4\course.h
+	"Assignment.h"
+	<iostream>
+	"Doctor.h"
+	<vector>
+	<string>
+
+1677761962 source:d:\code\project#4\doctor.cpp
+	"Doctor.h"
+	"Course.h"
+
+1677761962 d:\code\project#4\doctor.h
+	<iostream>
+	<vector>
+	<string>
+
+1677768402 source:d:\code\project#4\faculty.cpp
+	"Faculty.h"
+
+1677772268 d:\code\project#4\faculty.h
+	"Assignment.h"
+	"Student.h"
+	"Doctor.h"
+	"Course.h"
+	<vector>
+
+1677769086 source:d:\code\project#4\assignment.cpp
+	"Assignment.h"
+
+1677767571 d:\code\project#4\assignment.h
+	<iostream>
+	<string>
+

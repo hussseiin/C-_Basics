@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="61" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="43" />
+			<Collapse line="60" />
+		</Folding>
+	</File>
+	<File name="Student.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="241" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+		</Folding>
+	</File>
+	<File name="Faculty.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="695" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="Course.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="236" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Course.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="92" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="20" />
+		</Folding>
+	</File>
+	<File name="Student.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="296" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Assignment.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="235" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Doctor.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="286" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Doctor.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="72" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+		</Folding>
+	</File>
+	<File name="Faculty.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4644" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="8" />
+			<Collapse line="14" />
+			<Collapse line="20" />
+			<Collapse line="70" />
+			<Collapse line="103" />
+			<Collapse line="120" />
+			<Collapse line="148" />
+			<Collapse line="158" />
+			<Collapse line="173" />
+			<Collapse line="191" />
+		</Folding>
+	</File>
+	<File name="Assignment.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

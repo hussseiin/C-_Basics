@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1677599159 source:d:\code\c++_learning\project#2\main.cpp
+	<algorithm>
+	<iostream>
+	"Library.h"
+
+1677599240 d:\code\c++_learning\project#2\book.h
+	<iostream>
+	<string>
+
+1677596394 source:d:\code\c++_learning\project#2\book.cpp
+	"Book.h"
+
+1677596689 d:\code\c++_learning\project#2\user.h
+	<iostream>
+	<string>
+	"Book.h"
+
+1677596689 source:d:\code\c++_learning\project#2\user.cpp
+	"User.h"
+
+1677599682 d:\code\c++_learning\project#2\library.h
+	<algorithm>
+	<iostream>
+	<string>
+	"User.h"
+	"Book.h"
+
+1677599480 source:d:\code\c++_learning\project#2\library.cpp
+	"Library.h"
+
+1677598288 d:\code\c++_learning\project#2\compare.h
+	<algorithm>
+	"Book.h"
+
